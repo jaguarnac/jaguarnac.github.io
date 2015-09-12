@@ -1,0 +1,19 @@
+{
+  "name": "jaguarnac.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaguarnac/jaguarnac.github.io.git"
+  },
+  "author": "Nachiket Karve",
+  "license": "Copyright 2015, Nachiket Karve",
+  "bugs": {
+    "url": "https://github.com/jaguarnac/jaguarnac.github.io/issues"
+  },
+  "homepage": "https://github.com/jaguarnac/jaguarnac.github.io"
+}
